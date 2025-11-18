@@ -83,9 +83,9 @@ plot2d3('gnn',r);
 
 
 ## CALCULATION
-![Simulation of mean and variance page 1](https://github.com/user-attachments/assets/adb3d867-3d9c-4cf9-9557-0fc38b2e1726)
+<img width="522" height="850" alt="image" src="https://github.com/user-attachments/assets/8424e84f-7414-4e4e-bb8a-e39fc211ab24" />
 
-![Simulation of mean and variance page 2](https://github.com/user-attachments/assets/d0281544-754c-440b-ba6d-a75ceaa94a85)
+<img width="534" height="836" alt="image" src="https://github.com/user-attachments/assets/b6748d4f-32ce-469c-8013-24248d9ec02c" />
 
 
 
